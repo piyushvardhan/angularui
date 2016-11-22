@@ -1,4 +1,4 @@
-# angularui [![Build Status](https://secure.travis-ci.org/pvardhan/angularui.png?branch=master)](http://travis-ci.org/pvardhan/angularui)
+# angularui [![Build Status](https://secure.travis-ci.org/piyushvardhan/angularui.png?branch=master)](http://travis-ci.org/piyushvardhan/angularui)
 
 The best project ever.
 
